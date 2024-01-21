@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    border: solid 1px seagreen;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    border: solid 1px rgb(0, 0, 0);
+    background-color: seagreen;
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin-top: 5px;
+    color: white;
+}
+
+ul {
+    margin-top: 20px;
+    padding-left: 0;
+}
+ li{
+    list-style-type: none;
+    margin-top: 5px;
+ }
+
+ a{
+    font-weight: bolder;
+    margin-top: 5px;
+    color: seagreen;
+ }
