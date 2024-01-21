@@ -21,6 +21,14 @@ button {
     color: white;
 }
 
+    #delete-btn{
+        background-color: white;
+        font-weight: bolder;
+        padding: 10px 20px;
+        margin-top: 5px;
+        color: seagreen;
+    }
+
 ul {
     margin-top: 20px;
     padding-left: 0;
